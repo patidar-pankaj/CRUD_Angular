@@ -1,0 +1,15 @@
+.btns{
+    float: right;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.add, .edit{
+    margin-right: 10px;
+}
+
+.reset, .delete{
+    margin-left: 10px;
+}
